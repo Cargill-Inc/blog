@@ -1,6 +1,0 @@
-.gems/*
-.bundle/config
-.bundle/*
-.sass-cache/*
-# Gemfile.lock
-_site/*

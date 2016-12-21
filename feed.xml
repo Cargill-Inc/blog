@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cargill Technology</title>
+    <description>Technology Blog for Cargill GlobalIT</description>
+    <link>//cargill-inc.github.io/</link>
+    <atom:link href="//cargill-inc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Dec 2016 09:40:02 -0600</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2016 09:40:02 -0600</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      
+      <item>
+        <title>Digitization at Cargill</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;he momentum is growing around large corporations driving a strategy to become &lt;b&gt;Digital&lt;/b&gt;. Cargill is no different.  We are a company that takes pride in continued investments that grow value for our consumers, investors, partners and communities. We are making investments in ourselves to drive our own &lt;b&gt;Digitization&lt;/b&gt; strategy.&lt;br /&gt;&lt;br /&gt;
+
+There are many business initiatives that we are undertaking to blaze our path towards digital. But this blog is focused on technology and our technology strategy we will focus on how we are transforming what we do and how we do it to enable Cargill to become a &lt;b&gt;Digital&lt;/b&gt; company.&lt;br /&gt;&lt;br /&gt;
+
+Within our technology landscape we are making some major shifts; we have acknowledged that we are a technology company that needs to change some fundamental approaches to our architecture, engineering practices, and approach to delivery so we can keep pace with the changing demands of our business partners. We've have four priorities of focus:&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;1. Talent&lt;/b&gt; - Attract, develop and retain the right talent.&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;2. Processes&lt;/b&gt; - Create a culture of rapid prototypng, failing fast and taking a consumer centric approach to IT.&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;3. Data&lt;/b&gt; - Focus on the data, making it widely available and of high quality - building out a comprehensive data ecosystem. &lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;4. Technology&lt;/b&gt; - Making investments in different technologies to ensure our architecture is nimble, scalable and modern to evolve with the business.&lt;br /&gt;&lt;br /&gt;
+
+&lt;b&gt;&lt;i&gt;ARCHITECTURE SHIFTS :: &lt;/i&gt;&lt;/b&gt; Our future state architecture is now being driven by paradigms that are representative of a modern architecture that is purpose built for a digital company; allowing us to be more nimble, scalable and ripe for innovation.&lt;br /&gt;
+&lt;img src=&quot;/assets/img/Digital.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;i&gt;TECHNOLOGY SHIFTS :: &lt;/i&gt;&lt;/b&gt; The technology portfolio which we have started to leverage is also different.  What you will find is we are introducing more Open Source solutions, enabling cloud as the default deployment option, investing in Infrastructure as Code, Configuration Management tools and started looking at optimizing our operating model with tools such as ChatOps and social coding capabilities.  Check out some of our key technology investments on our &lt;a href=&quot;/technology&quot;&gt;Technology page.&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;&lt;i&gt;CULTURAL SHIFTS :: &lt;/i&gt;&lt;/b&gt; Moving from a traditionally &quot;BUY&quot; company to a company that has embraced the idea that we will write our own differentiating software, invest in data science practices, and embrace a culture which is grounded on the fundamental philosophies of the &lt;a href=&quot;http://agilemanifesto.org&quot;&gt;Agile Manifesto.&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+I want to invite you to monitor this blog to see how we are progressing, investments we are making, and follow what we are learning.  The intent is to make this an IT focused blog to talk about our journey - sharing on Engineering topics (think sample code), cultural struggles (let's be honest this is a new way to work) as well as shifts we will continue to drive from an architecture perspective.  The posts will be by members of our Engineering and IT community across Cargill.  If things sound cool, please follow us on Twitter, GitHub, or check us out on &lt;a href=&quot;https://www.linkedin.com/company/cargill&quot;&gt;LinkedIN&lt;/a&gt; - it's possible there is a spot for you on this journey.
+&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;he momentum is growing around large corporations driving a strategy to become &lt;b&gt;Digital&lt;/b&gt;. Cargill is no different.  We are a company that takes pride in continued investments that grow value for our consumers, investors, partners and communities. We are making investments in ourselves to drive our own &lt;b&gt;Digitization&lt;/b&gt; strategy.&lt;br /&gt;&lt;br /&gt;
+
+&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 29 Sep 2016 00:00:00 -0500</pubDate>
+        <link>//cargill-inc.github.io/blog/Digitization/</link>
+        <guid isPermaLink="true">//cargill-inc.github.io/blog/Digitization/</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
